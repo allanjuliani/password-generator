@@ -3,10 +3,10 @@
   "short_name": "Generator",
   "theme_color": "#1f2121",
   "background_color": "#1f2121",
-  "start_url": "http://password-generator.allanjuliani.com.br/",
+  "start_url": "https://password-generator.allanjuliani.com.br/",
   "display": "standalone",
   "icons": [{
-    "src": "/images/logo.png",
+    "src": "/logo.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
